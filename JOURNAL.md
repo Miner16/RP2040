@@ -12,9 +12,15 @@ The schematic was fairly straight-forward (with some caveats), but I managed to 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1897cb0d49c04c443313ddd5ba08438ce62b590e/image.png)
   
 
-## 11/9/2025 1 AM - Next step: ROUTING THE PCB (aka hell)  
+## 11/9/2025 1:01 AM - Next step: ROUTING THE PCB (aka hell)  
 
 Today I took on the challenge known as routing the PCB, which I decided to do without the help of the tutorial. Thinking for myself should allow me to become much better at PCB design!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0a8896cdfe92561f85b4f69b7ed605942be9cd12/image.png)
+  
+
+## 11/9/2025 1:11 AM - Finally: FINAL TOUCHES AND ORDER  
+
+Finally the time is here to make the JLC order! But before that id like to add on a little something to make this project really personal for me. I added a famous quote: “I am still learning.” — Michelangelo, along with the Raspberry logo. About the order: after long consideration, I picked to go for PCBA for this project. There is just NO way a newbie like me can solder those tiny pins on the MCU.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYxMywicHVyIjoiYmxvYl9pZCJ9fQ==--797eb2ae927e7178588c8091d81b98e87053336a/image.png)
   
 
