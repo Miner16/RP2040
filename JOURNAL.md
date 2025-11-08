@@ -6,9 +6,15 @@
   ==================================================================
 -->
 
-## 11/9/2025 - Started work: THE SCHEMATIC   
+## 11/9/2025 12 AM - Started work: THE SCHEMATIC   
 
 The schematic was fairly straight-forward (with some caveats), but I managed to finish it. Ofc it was with the help of the tutorial. I had an AI check it, and there were no apparent mistakes.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1897cb0d49c04c443313ddd5ba08438ce62b590e/image.png)
+  
+
+## 11/9/2025 1 AM - Next step: ROUTING THE PCB (aka hell)  
+
+Today I took on the challenge known as routing the PCB, which I decided to do without the help of the tutorial. Thinking for myself should allow me to become much better at PCB design!
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0a8896cdfe92561f85b4f69b7ed605942be9cd12/image.png)
   
 
